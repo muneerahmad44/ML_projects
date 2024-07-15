@@ -1,2 +1,4 @@
 # ML_projects
-I Will upload projects related to machine learning
+It's Muneer a AI Engineer currently working as a ML engineer at fiverr and upwork
+In This repository i will be  adding projects that i will do related to machine learning.
+
